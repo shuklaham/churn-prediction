@@ -6,7 +6,7 @@ There is a telecom company that offers phone and internet services. There is a p
 Data: [churn data](https://github.com/shuklaham/churn-prediction/blob/master/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 
 #### Solution
-I have followed ML project checklist inspired from the one mentioned in the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) . I have divided my work into multiple short redable notebooks:
+I have followed ML project checklist inspired from the one mentioned in the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) . I have divided my work into multiple short readable notebooks:
 - Data preparation
 - Data exploration
 - Feature correlation and importance
