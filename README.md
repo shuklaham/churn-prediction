@@ -15,6 +15,9 @@ I have followed ML project checklist inspired from the one mentioned in the book
 - Hyperparameter tuning and ensembles
 - Final model selection, model saving and docker
 
+#### Final Model Selection
+I went with logistic regression model with L1 regularization and C value equal to 0.1
+
 I have used **Flask** to build web service.
 
 #### Acknowledgements
