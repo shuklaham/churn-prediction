@@ -18,6 +18,7 @@ I have followed ML project checklist inspired from the one mentioned in the book
 #### Final Model Selection
 I went with logistic regression model with L1 regularization and C value equal to 0.1
 
+#### Model serving
 I have used **Flask** to build web service.
 
 #### Acknowledgements
